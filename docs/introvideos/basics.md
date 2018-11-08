@@ -8,7 +8,7 @@ DateApproved: 7/30/2018
 MetaDescription: Download and learn the basics of Visual Studio Code.
 MetaSocialImage: images/opengraph/introvideos.png
 ---
-# Getting started with Visual Studio Code
+# Getting started with Visual Studio Code（请出中文版教程！！！）
 
 In this tutorial, we walk you through setting up Visual Studio Code and give an overview of the basic features.
 
